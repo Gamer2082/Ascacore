@@ -7,7 +7,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Ascacore extends JavaPlugin {
     public static Ascacore instance;
-    public static Ascacore on;
 
     @Override
     public void onEnable() {
