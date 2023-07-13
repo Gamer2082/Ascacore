@@ -1,0 +1,55 @@
+name: Ascacore
+version: '${version}'
+main: fr.ascaria.ascacore.ascacore
+author: [Gamer_m2082]
+prefix: AsOM
+load: STARTUP
+api-version: 1.16
+
+commands:
+  tuto:
+    description: tuto
+    usage: /tuto
+  testASOM:
+    description: Dev test if plugins start
+    usage: /testASOM
+    permission: AsOM.devUse
+  spawn:
+    description: Tp to the spawn
+    usage: /spawn
+  rstaff:
+    description: go to staff reunion
+    usage: /rstaff
+    permission: AsOM.rstaff
+  s:
+    description: tp to the shop
+    usage: /s
+  arene:
+    usage: /arene
+    description: tp to the aréne
+  discord:
+    usage: /discord
+    description: get discord of Ascaria oneblock
+  vote:
+    usage: /vote
+    description: get lens for vote
+  boutique:
+    usage: /boutique
+    description: get boutique lens
+  menu:
+    usage: /menu
+    description: open the server menu
+  chat:
+    usage: /chat args
+    description: change your chat settings
+
+  site:
+    usage: /site
+    description: go to the site
+
+
+
+
+  
+
+
