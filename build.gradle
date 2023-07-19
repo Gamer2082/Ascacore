@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'fr.ascaria'
-version = '1.0'
+version = 'BETA'
 
 repositories {
     mavenCentral()
